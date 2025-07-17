@@ -36,3 +36,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
     </td>
   </tr>
 </table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthasaimanu&layout=compact&theme=radical" />
