@@ -23,3 +23,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ananthasaijr/)
 [![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthasai89@gmail.com)
+
+## 📊 GitHub Stats
+
+![Ananthasai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananthasaimanu&show_icons=true&theme=radical)
