@@ -2,15 +2,15 @@
 
 A passionate full-stack developer from India who loves building with the **MERN stack** and exploring new tech.
 
-- 🔭 I’m currently working on: [HotelNani.com](https://hotelnani.com)
-- 🌱 I’m learning: MEAN Stack, Docker, TypeScript, and System Design
-- 💬 Ask me about: JavaScript, MongoDB, Node.js, Express, Angular
-- 📫 Reach me: ananthasaimanu@gmail.com
+- 🔭 I’m currently working with: Mentor Bro 
+- 🌱 I’m learning: MERN stack development
+- 💬 Ask me about: HTML,CSS and Javascript
+- 📫 Reach me: ananthasai89@gmail.com
 
 ## 🛠️ Languages and Tools
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -20,5 +20,5 @@ A passionate full-stack developer from India who loves building with the **MERN 
 <br/>
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthasaimanu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ananthasaijr/)
+[![Mail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthasai89@gmail.com)
