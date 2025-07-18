@@ -3,7 +3,7 @@
 A passionate full-stack developer from India who loves building with the **MERN stack** and exploring new tech.
 
 - 🔭 I’m currently working with: Mentor Bro 
-- 🌱 I’m learning: MERN stack development
+- 🌱 I’m learning: MERN stack development 
 - 💬 Ask me about: HTML,CSS and Javascript
 - 📫 Reach me: ananthasai89@gmail.com
 
